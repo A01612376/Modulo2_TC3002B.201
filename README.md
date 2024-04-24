@@ -52,6 +52,7 @@ Para la compilación del modelo se utilizó lo siguiente:
 Se entrena el modelo con 20 épocas de 101 steps cada una.
 
 **Resultados**
+
 ![imagen](https://github.com/A01612376/Modulo2_TC3002B.201/assets/83626334/b0f8f72d-7a2c-43b9-8690-2e994960c742)
 
 ![imagen](https://github.com/A01612376/Modulo2_TC3002B.201/assets/83626334/359e9eff-35c1-43a3-86c8-bb1b90a39b87)
