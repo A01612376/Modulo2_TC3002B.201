@@ -70,5 +70,13 @@ Al modelo se le aplica una capa de normalización con BatchNormalization. Cuenta
 
 Para evitar sobreajuste se utiliza la técnica dropout para reducir el sobreajuste. Finalmente para la capa de salida, se añade una capa densa con 20 neuronas, debido a la cantidad de clases existentes y su respectiva función de activación, que en este caso es softmax.
 
+## birds_model.h5
+Alternativa para el guardado del modelo.
+
+Dentro del archivo main se utiliza este tipo de archivo, debido a problemas que se generan con las librerías y los archivos .keras.
+
 ## main.py
 Código para probar el modelo.
+
+## birdsJosemaria.py
+Implementación del proyecto en formato .py.
