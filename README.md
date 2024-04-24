@@ -30,6 +30,8 @@ Link al dataset original: https://www.kaggle.com/datasets/gpiosenka/100-bird-spe
 
 Link al dataset reducido: https://drive.google.com/drive/folders/1X3wNE4jmeC7B7UOqyVEw9U6AVVXe_8vu?usp=sharing
 
+En la carpeta test se encuentra el dataset reducido de test para probar el modelo.
+
 ## birds_Josemaria.ipynb
 Archivo demostrativo con el funcionamiento completo del proyecto.
 
@@ -80,3 +82,6 @@ Código para probar el modelo.
 
 ## birdsJosemaria.py
 Implementación del proyecto en formato .py.
+
+## Bibliografía
+Deep residual learning for image recognition (He, K., Zhang, X., Ren, S., & Sun, J. 2016) https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
