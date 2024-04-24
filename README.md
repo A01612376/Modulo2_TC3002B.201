@@ -52,6 +52,13 @@ Para la compilación del modelo se utilizó lo siguiente:
 Se entrena el modelo con 20 épocas de 101 steps cada una.
 
 **Resultados**
+![imagen](https://github.com/A01612376/Modulo2_TC3002B.201/assets/83626334/b0f8f72d-7a2c-43b9-8690-2e994960c742)
+
+![imagen](https://github.com/A01612376/Modulo2_TC3002B.201/assets/83626334/359e9eff-35c1-43a3-86c8-bb1b90a39b87)
+
+![imagen](https://github.com/A01612376/Modulo2_TC3002B.201/assets/83626334/5811f283-fadc-4bc2-82ac-1a5c781a2307)
+
+El modelo tiene un buen desempeño dentro de train y validation. Aumentar el número de épocas sería una buena mejora para el modelo, debido a que la tendencia del modelo a lo largo de las épocas es de mejora, sin llegar a un punto de una mejora despreciable.
 
 ## birds.keras
 Archivo con el modelo guardado.
