@@ -27,6 +27,7 @@ El dataset utilizado es "BIRDS 525 SPECIES- IMAGE CLASSIFICATION" obtenido de la
 - NORTHERN GOSHAWK
 
 Link al dataset original: https://www.kaggle.com/datasets/gpiosenka/100-bird-species
+
 Link al dataset reducido: https://drive.google.com/drive/folders/1X3wNE4jmeC7B7UOqyVEw9U6AVVXe_8vu?usp=sharing
 
 ## birds_Josemaria.ipynb
