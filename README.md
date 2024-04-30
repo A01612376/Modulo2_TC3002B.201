@@ -63,6 +63,19 @@ Se entrena el modelo con 20 épocas de 101 steps cada una.
 
 El modelo tiene un buen desempeño dentro de train y validation. Aumentar el número de épocas sería una buena mejora para el modelo, debido a que la tendencia del modelo a lo largo de las épocas es de mejora, sin llegar a un punto de una mejora despreciable.
 
+Al aumentar a 25 las épocas y el dropout ajustarlo a 0.6, se obtuvieron las siguientes mejoras:
+
+
+![imagen](https://github.com/A01612376/Modulo2_TC3002B.201/assets/83626334/cb811a79-8fc8-45df-95ea-c8ae61a17b04)
+
+![imagen](https://github.com/A01612376/Modulo2_TC3002B.201/assets/83626334/06d7ff30-b574-4e10-988b-2dd954c4ed09)
+
+![imagen](https://github.com/A01612376/Modulo2_TC3002B.201/assets/83626334/2093ea76-c463-4d96-8620-b678c2abbd6c)
+
+Se mejoró el accuracy del modelo por un:
+- Accuracy 88% -> 93%
+- Validation Accuracy 88% -> 92%
+
 ## birds.keras
 Archivo con el modelo guardado.
 
