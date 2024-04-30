@@ -93,6 +93,9 @@ Dentro del archivo main se utiliza este tipo de archivo, debido a problemas que 
 ## main.py
 Código para probar el modelo.
 
+## birds_Josemaria_v2.ipynb
+Versión refinada del modelo.
+
 ## birdsJosemaria.py
 Implementación del proyecto en formato .py.
 
